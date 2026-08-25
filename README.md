@@ -61,4 +61,4 @@ The code is structured into several modular functions to handle rendering, trans
 ### How to Run
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/233002712-alt/GLUT_Graphics_Project.git](https://github.com/233002712-alt/GLUT_Graphics_Project.git)
+   git clone https://github.com/233002712-alt/GLUT_Graphics_Project.git
