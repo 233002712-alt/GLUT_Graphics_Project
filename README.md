@@ -51,4 +51,4 @@ The code is structured into modules handling graphics rendering, transformations
 
 1. Clone the Repository:
 ```bash
-git clone [https://github.com/233002712-alt/GLUT_Graphics_Project.git](https://github.com/233002712-alt/GLUT_Graphics_Project.git)
+git clone https://github.com/233002712-alt/GLUT_Graphics_Project.git
